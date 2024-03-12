@@ -1,0 +1,16 @@
+name: com.hcg.extensions
+displayName: Extensions
+description: Extension Classes
+repoUrl: https://github.com/Homecooked-Games-Git/hcg-extensions
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+image: ''
+topics:
+  - frameworks
+hunter: oguztecimer
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:README.md
+createdAt: 1710243656214
